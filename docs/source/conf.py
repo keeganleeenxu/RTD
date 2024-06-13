@@ -14,7 +14,8 @@ extensions = [
     'sphinx.ext.autodoc',
     'sphinx.ext.autosummary',
     'sphinx.ext.intersphinx',
-    'sphinxcontrib.mermaid'
+    # 'sphinxcontrib.mermaid',
+    'sphinxmermaid',
 ]
 
 intersphinx_mapping = {
