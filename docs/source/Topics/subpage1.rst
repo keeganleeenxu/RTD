@@ -1,2 +1,2 @@
-subpage1
+Subpage1
 ========
