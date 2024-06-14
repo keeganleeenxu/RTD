@@ -39,7 +39,7 @@ This is a simple visualisation of the structure of the wiki. It demonstrates how
      C --> F[Subpage2]
 
    click A "index.html"
-   click B "Topics/EntityRelationshipDiagram.html"
+   click B "Topics/EntityRelationshipDiagrams.html"
    click C "Topics/RelationalAlgebra.html"
    click D "Topics/SQL.html"
    click E "Topics/subpage1.html"
